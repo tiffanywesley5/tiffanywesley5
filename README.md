@@ -58,14 +58,6 @@ Full-stack developer  · Forbes Next 1000 Honoree · Former fintech Risk leader 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiffanywesley5&show_icons=true&theme=dark&bg_color=0d1117&title_color=c8f56a&icon_color=c8f56a&text_color=e6edf3&border_color=30363d" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanywesley5&layout=compact&theme=dark&bg_color=0d1117&title_color=c8f56a&text_color=e6edf3&border_color=30363d" height="165" alt="Top Languages" />
-</div>
 
 ---
 
