@@ -17,7 +17,7 @@
 
 ## About Me
 
-Full-stack developer in training · Forbes Next 1000 honoree · Former fintech risk leader (Block/Square + Wells Fargo)
+Full-stack developer  · Forbes Next 1000 Honoree · Former fintech Risk leader ( Ex Block/Square + Wells Fargo)
 
 - 📍 St. Louis, MO
 - 🎓 Full-Stack Development @ Savvy Coders (2026)
