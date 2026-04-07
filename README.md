@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tiffany Elise Snow
+# Tiffany Snow Wesley
 
 *Founder · Full-Stack Developer · Climate-Tech Builder*
 
